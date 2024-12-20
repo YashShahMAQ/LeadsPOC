@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "emailAddress": "yash.shah130@gmail.com",
+    "contactPerson": "Yash Shah",
+    "interestArea": "CellPhone"
+  },
+  {
+    "id": 2,
+    "emailAddress": "yudi.shah130@gmail.com",
+    "contactPerson": "Yudi Shah",
+    "interestArea": "Laptops"
+  },
+  {
+    "id": 3,
+    "emailAddress": "bob.jones@example.com",
+    "contactPerson": "Bob Jones",
+    "interestArea": "Cars"
+  },
+  {
+    "id": 4,
+    "emailAddress": "susan.lee@example.com",
+    "contactPerson": "Susan Lee",
+    "interestArea": "Laptops"
+  },
+  {
+    "id": 5,
+    "emailAddress": "michael.brown@example.com",
+    "contactPerson": "Michael Brown",
+    "interestArea": "TV"
+  }
+]
